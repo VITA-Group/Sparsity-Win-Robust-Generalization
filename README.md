@@ -1,4 +1,4 @@
-# Sparsity Winning Twice: Better Robust Generalization From More Efficient Training
+# Sparsity Winning Twice: Better Robust Generalization from More Efficient Training
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
