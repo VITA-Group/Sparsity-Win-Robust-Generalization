@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Code for the paper: [Sparsity Winning Twice: Better Robust Generalization From More Efficient Training](https://openreview.net/forum?id=SYuJXrXq8tw)
+Code for the paper: [ICLR 2022] [Sparsity Winning Twice: Better Robust Generalization From More Efficient Training](https://openreview.net/forum?id=SYuJXrXq8tw)
 
 Tianlong Chen\*, Zhenyu Zhang\*, Pengjun Wang\*, Santosh Balachandra\*, Haoyu Ma\*, Zehao Wang, Zhangyang Wang
 
