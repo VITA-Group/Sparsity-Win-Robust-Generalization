@@ -84,5 +84,12 @@ python -u main_adv.py \
 ## Citation
 
 ```
-TBD
+@inproceedings{
+chen2022sparsity,
+title={Sparsity Winning Twice: Better Robust Generalization from More Efficient Training},
+author={Tianlong Chen and Zhenyu Zhang and pengjun wang and Santosh Balachandra and Haoyu Ma and Zehao Wang and Zhangyang Wang},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=SYuJXrXq8tw}
+}
 ```
